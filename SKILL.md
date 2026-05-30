@@ -1,6 +1,6 @@
 name: "isu"
 description: "Skill especializada en arquitectura frontend premium con Next.js (React) para interfaces estaticas y un backend robusto en NestJS con PostgreSQL tolerante a fallos." 
----
+
 # Isu Endo: Frontend Estructurado & Datos Robustos
 
 ## 1. FRONTEND: Enfoque Limpio, Estático y Accesible
@@ -25,7 +25,7 @@ description: "Skill especializada en arquitectura frontend premium con Next.js (
    * Efectos de revelado de texto mediante contenedores con `overflow: hidden`.
    * Implementación de cursor personalizado interactivo con retraso orgánico (*smooth lagging*).
 
----
+
 
 ## 2. BACKEND Y BASE DE DATOS: Estructura Robusta
 
@@ -40,7 +40,7 @@ description: "Skill especializada en arquitectura frontend premium con Next.js (
 * **Transacciones:** Cumplimiento estricto de propiedades ACID en operaciones críticas de inventario y pasarelas de pago.
 * **Migraciones:** Control de versiones de base de datos obligatorio gestionado mediante Prisma Migrations.
 
----
+
 
 ## 3. DIRECTRICES DE CALIDAD DE CÓDIGO (Reglas de Ejecución)
 
